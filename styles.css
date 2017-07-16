@@ -2,10 +2,26 @@
 html {
 }
 body {
+    font-family: comic sans ms;
 }
-/* HEADDING*/
+/* HEADER*/
 /* LIST*/
 #sayings {
+    text-align: center;
+    font-size: 25px;
 }
 #sayingsdiv {
+    margin: auto;
+    width: 400px;
+}
+li {
+    margin: 0 0 10px 0;
+}
+h1 {
+    font-size: 60px;
+    margin-top: -10px;
+    margin-bottom: -20px;
+}
+h2 {
+    margin-left: 50px;
 }
