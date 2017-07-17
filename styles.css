@@ -3,8 +3,11 @@ html {
 }
 body {
     font-family: comic sans ms;
+
 }
 /* HEADER*/
+header {
+}
 /* LIST*/
 #sayings {
     text-align: center;
@@ -13,6 +16,9 @@ body {
 #sayingsdiv {
     margin: auto;
     width: 400px;
+}
+#header {
+
 }
 li {
     margin: 0 0 10px 0;
