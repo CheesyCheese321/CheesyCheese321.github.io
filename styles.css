@@ -1,12 +1,15 @@
 /* GENERAL */
 html {
+    background: url(background.jpg);
+    background-size: 100%;
 }
 body {
     font-family: comic sans ms;
-
+    color: white
 }
 /* HEADER*/
 header {
+color: white;
 }
 /* LIST*/
 #sayings {
@@ -15,13 +18,16 @@ header {
 }
 #sayingsdiv {
     margin: auto;
-    width: 400px;
+    width: 60%;
+    background-color: rgba(0,0,0,0.7);
+    border: solid;
+    border-radius: 10px;
 }
 #header {
 
 }
 li {
-    margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
 }
 h1 {
     font-size: 60px;
